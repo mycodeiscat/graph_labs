@@ -1,2 +1,2 @@
 #  Шалімов Андрій КП82
-![lab1](https://github.com/mycodeiscat/graph_labs/blob/origin/lab1.png?raw=true)
+![lab1](https://raw.githubusercontent.com/mycodeiscat/graph_labs/master/lab1/lab1.png)
