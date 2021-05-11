@@ -68,7 +68,7 @@ public class Main extends JPanel implements ActionListener {
 
 
 
-//       g2d.scale(scale, 0.99);
+        g2d.scale(scale, 0.99);
         g2d.fill(cart_obj);
 
         bs = new BasicStroke((float) 0.5);
